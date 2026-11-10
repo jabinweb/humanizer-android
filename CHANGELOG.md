@@ -3,6 +3,16 @@
 All notable changes to Humanizer. Format: [Keep a Changelog](https://keepachangelog.com), versioning: [Semantic Versioning](https://semver.org).
 The web app, server and Android app share one product version. Android `versionCode` increases by one every release.
 
+## [1.5.0] — 2026-11-11 · Android versionCode 7
+### Added
+- Tools tab: 18 one-tap jobs (cover letter, meeting → actions, summarize, flashcards, quiz, reply in context, tone check…) and offline Redact & restore / Text checks.
+- Fix by sentence: AI-sounding sentences flagged with the reason, rewritten one at a time.
+- Privacy router and Privacy tab: sensitive text stays on your phone / computer instead of a cloud engine.
+- Standard Material 3 bottom navigation; Settings moved to a header gear.
+### Changed
+- Back goes up one level instead of closing the app; open tool kept across tabs.
+- Account/server errors no longer say "invalid key".
+
 ## [1.4.0] — 2026-11-10 · Android versionCode 6
 ### Fixed
 - The AI no longer just echoes your message back: follow-ups were sent to the model as the *previous answer* instead of the new message.

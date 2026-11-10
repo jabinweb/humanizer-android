@@ -26,7 +26,7 @@ Make AI-written text sound human — write, humanize and polish, on your phone.
 3. Open **Humanizer**.
 
 ## Versions
-Every release is tagged `vMAJOR.MINOR.PATCH` and ships versioned files — `Humanizer-1.4.0.apk` (full) and `Humanizer-1.4.0-lite.apk` — plus unversioned aliases (`Humanizer.apk`, `Humanizer-Lite.apk`) that always point to the newest. Pick a specific version from [Releases](https://github.com/jabinweb/humanizer-android/releases) if you need to pin or roll back.
+Every release is tagged `vMAJOR.MINOR.PATCH` and ships versioned files — `Humanizer-1.5.0.apk` (full) and `Humanizer-1.5.0-lite.apk` — plus unversioned aliases (`Humanizer.apk`, `Humanizer-Lite.apk`) that always point to the newest. Pick a specific version from [Releases](https://github.com/jabinweb/humanizer-android/releases) if you need to pin or roll back.
 
 ## Verify your download (optional)
 SHA-256 of the APK is in `Humanizer.apk.sha256`. The app is signed with this certificate (SHA-256):

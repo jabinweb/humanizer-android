@@ -2,10 +2,13 @@
 
 Make AI-written text sound human — write, humanize and polish, on your phone.
 
-**[⬇ Download the latest APK](https://github.com/jabinweb/humanizer-android/releases/latest/download/Humanizer.apk)** · Android 8.0+ (arm64) · ~28 MB
+**[⬇ Download the full app](https://github.com/jabinweb/humanizer-android/releases/latest/download/Humanizer.apk)** · Android 8.0+ (arm64) · ~28 MB — runs AI models on your phone
+
+**[⬇ Download Lite](https://github.com/jabinweb/humanizer-android/releases/latest/download/Humanizer-Lite.apk)** · Android 8.0+ (any phone) · ~1.5 MB — no on-phone AI; use the built-in engine, Ollama on your Wi-Fi, or your own API key
 
 ## What it does
 - **Studio** — paste text, pick a tone and strength, see an AI-likelihood score before → after, with a word-level diff and highlighted AI-sounding phrases.
+- **Attach files & images** — text, Word, PDF and photos (to models that can see images), plus voice input and sharing into the app from any other app.
 - **Chat first** — ask it to write something, then keep going: *"humanize this"*, *"shorter"*, *"summarize"*, *"translate to Spanish"*.
 - **Humanize anywhere** — select text in any app and choose **Humanize** from the selection menu, then replace it in place.
 - **AI on your phone** — download Qwen, DeepSeek-R1, Phi-4 mini or TinyLlama and run them fully offline. The app reads your phone's RAM and storage and tells you which will run well. Downloads are resumable and checksum-verified.

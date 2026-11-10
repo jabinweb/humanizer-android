@@ -1,5 +1,7 @@
 # Humanizer for Android
 
+[![Latest release](https://img.shields.io/github/v/release/jabinweb/humanizer-android?label=latest&color=2354D9)](https://github.com/jabinweb/humanizer-android/releases/latest) · [Changelog](CHANGELOG.md) · versions follow [SemVer](https://semver.org)
+
 Make AI-written text sound human — write, humanize and polish, on your phone.
 
 **[⬇ Download the full app](https://github.com/jabinweb/humanizer-android/releases/latest/download/Humanizer.apk)** · Android 8.0+ (arm64) · ~28 MB — runs AI models on your phone
@@ -22,6 +24,9 @@ Make AI-written text sound human — write, humanize and polish, on your phone.
 1. Download `Humanizer.apk` above on your phone.
 2. Open it. Android will ask you to allow installs from your browser/files app — this is normal for apps outside the Play Store.
 3. Open **Humanizer**.
+
+## Versions
+Every release is tagged `vMAJOR.MINOR.PATCH` and ships versioned files — `Humanizer-1.4.0.apk` (full) and `Humanizer-1.4.0-lite.apk` — plus unversioned aliases (`Humanizer.apk`, `Humanizer-Lite.apk`) that always point to the newest. Pick a specific version from [Releases](https://github.com/jabinweb/humanizer-android/releases) if you need to pin or roll back.
 
 ## Verify your download (optional)
 SHA-256 of the APK is in `Humanizer.apk.sha256`. The app is signed with this certificate (SHA-256):

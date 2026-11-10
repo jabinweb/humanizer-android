@@ -2,12 +2,15 @@
 
 Make AI-written text sound human — write, humanize and polish, on your phone.
 
-**[⬇ Download the latest APK](https://github.com/jabinweb/humanizer-android/releases/latest/download/Humanizer.apk)** · Android 8.0+ · ~1.5 MB
+**[⬇ Download the latest APK](https://github.com/jabinweb/humanizer-android/releases/latest/download/Humanizer.apk)** · Android 8.0+ (arm64) · ~28 MB
 
 ## What it does
 - **Studio** — paste text, pick a tone and strength, see an AI-likelihood score before → after, with a word-level diff and highlighted AI-sounding phrases.
-- **Chat** — ask it to write something, then keep going: *"humanize this"*, *"shorter"*, *"more casual"*.
+- **Chat first** — ask it to write something, then keep going: *"humanize this"*, *"shorter"*, *"summarize"*, *"translate to Spanish"*.
 - **Humanize anywhere** — select text in any app and choose **Humanize** from the selection menu, then replace it in place.
+- **AI on your phone** — download Qwen, DeepSeek-R1, Phi-4 mini or TinyLlama and run them fully offline. The app reads your phone's RAM and storage and tells you which will run well. Downloads are resumable and checksum-verified.
+- **Privacy Shield** — emails, phone and card numbers, IDs and API keys are masked on your phone before text goes to any cloud AI, then restored in the answer.
+- **Checks that run on-device** — reading level, "needs a source" flags for statistics and citations, and a writing receipt (hashed, timestamped record of your edits).
 - **Your engine, your choice** — a free built-in engine, Ollama running on your own computer (auto-discovered on your Wi-Fi), or your own OpenAI / Anthropic / Gemini / OpenRouter key.
 - **Write like me** — learns your style from a sample of your writing.
 - **Accounts & sync** — optional email + password; syncs history and voice with the web app. API keys never leave your phone.

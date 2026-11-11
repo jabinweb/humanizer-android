@@ -3,6 +3,12 @@
 All notable changes to Humanizer. Format: [Keep a Changelog](https://keepachangelog.com), versioning: [Semantic Versioning](https://semver.org).
 The web app, server and Android app share one product version. Android `versionCode` increases by one every release.
 
+## [1.7.1] — 2026-11-11 · Android versionCode 10
+### Fixed
+- Dark mode: the welcome tour's text was unreadable (black on dark); controls, outlines and text buttons are now clearly visible; disabled buttons are readable.
+### Changed
+- The engine pill shows a phone / computer / cloud icon; the chat welcome has proper spacing.
+
 ## [1.7.0] — 2026-11-11 · Android versionCode 9
 Includes everything from 1.6.0.
 ### Added

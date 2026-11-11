@@ -3,6 +3,19 @@
 All notable changes to Humanizer. Format: [Keep a Changelog](https://keepachangelog.com), versioning: [Semantic Versioning](https://semver.org).
 The web app, server and Android app share one product version. Android `versionCode` increases by one every release.
 
+## [1.7.0] — 2026-11-11 · Android versionCode 9
+Includes everything from 1.6.0.
+### Added
+- **Use this phone from a computer**: scan a QR code on a laptop on the same Wi-Fi and the full web app opens with the AI running on the phone (Full build).
+- **Phone cluster**: pair other phones; long documents are shared across all of them, and a phone that drops out loses nothing.
+- **In-app updates** from GitHub Releases, with SHA-256 verification.
+- **Quick Settings tile** and optional **floating button** to rewrite copied text from any app.
+- **API keys validate themselves** and pick a default model.
+- **Welcome tour, splash animation, optional notifications.**
+- Forgot password / email verification, source check, reader personas, read aloud, tool results in History, writing-voice fingerprint (from 1.6.0).
+### Changed
+- Redesigned UI, standard bottom navigation, more compact buttons and toggles; privacy controls moved into Settings.
+
 ## [1.5.0] — 2026-11-11 · Android versionCode 7
 ### Added
 - Tools tab: 18 one-tap jobs (cover letter, meeting → actions, summarize, flashcards, quiz, reply in context, tone check…) and offline Redact & restore / Text checks.

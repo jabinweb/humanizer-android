@@ -3,6 +3,11 @@
 All notable changes to Humanizer. Format: [Keep a Changelog](https://keepachangelog.com), versioning: [Semantic Versioning](https://semver.org).
 The web app, server and Android app share one product version. Android `versionCode` increases by one every release.
 
+## [1.7.2] — 2026-11-11 · Android versionCode 11
+### Changed
+- Settings is now a hub of cards (AI models, Privacy, Devices, Shortcuts & notifications, Your writing voice, Account, Advanced), each with its own screen and a live summary.
+- "Share this phone" shows its pairing QR code on the Devices screen, and the cluster card says which phone does what.
+
 ## [1.7.1] — 2026-11-11 · Android versionCode 10
 ### Fixed
 - Dark mode: the welcome tour's text was unreadable (black on dark); controls, outlines and text buttons are now clearly visible; disabled buttons are readable.
